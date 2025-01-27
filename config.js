@@ -5,7 +5,7 @@ module.exports = {
         owners: ["1328399461931810877"],
         funny: '1328399461931810877',
         color: '#0000FF',
-        footer: 'Noxtro#7777',
+        footer: 'Oauth2 Bot',
         maxserver: '1',
         maxVol: '150',
         everyoneMention: false,
