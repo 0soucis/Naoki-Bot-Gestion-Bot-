@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         px: '+',
-        token: 'TOKEN',
+        token: 'MTMzMzU1MjAzMzc5MzQ0NTkwOA.GgKPNg.yJ9M2r9tQXjwdpfXGCGegKV23arcuiGKdUBpXk',
         owners: ["1328399461931810877"],
         funny: '1328399461931810877',
         color: '#0000FF',
