@@ -1,9 +1,9 @@
 module.exports = {
     app: {
         px: '+',
-        token: '',
-        owners: [""],
-        funny: '',
+        token: 'TOKEN',
+        owners: ["1328399461931810877"],
+        funny: '1328399461931810877',
         color: '#0000FF',
         footer: 'Noxtro#7777',
         maxserver: '1',
